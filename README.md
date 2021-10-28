@@ -16,4 +16,4 @@
 |Felipe Cabeza Pareja                  |fcabeza@unal.edu.co     | bezaca         |
 |Jose Fernando López Ramírez           |jlopezra@unal.edu.co    | jlopezra        |
 |Sebastian Villegas Múnera             |Sevillegas@unal.edu.co  | sevillegas         |
-|XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co     | usuario         |
+|Angello Gómez Monsalve                |anggomezmo@unal.edu.co  | anggomezmo        |
