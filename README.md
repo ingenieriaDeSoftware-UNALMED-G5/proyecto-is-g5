@@ -12,7 +12,7 @@
 |Daniel Camilo Raillo Mosquera         |draillo@unal.edu.co     | draillo            |
 |David Esteban Toro Arango             |datoro@unal.edu.co      | DavidToro1000      |
 |Manuel Alejangro Gallego Jiménez	     |mgallegoj@unal.edu.co	  |ManuelGallegoJ      |
-|XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
+|Felipe Cabeza Pareja                  |fcabeza@unal.edu.co    | bezaca         |
 |XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
 |XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
 |XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
