@@ -7,7 +7,7 @@
 |Nombre completo                       |Correo                  |Git user            |
 |--------------------------------------|------------------------|--------------------|
 |Elízabeth Alzate Zapata               |ealzatez@unal.edu.co    | elizalzate         |
-|Manuel Alejangro Gallego Jiménez      |mgallegoj@unal.edu.co   | ManuelGallegoJ     |
+|Carlos David Arango Escobar           |caarangoe@unal.edu.co   | CarlosDavidArango  |
 |XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
 |XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
 |XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
