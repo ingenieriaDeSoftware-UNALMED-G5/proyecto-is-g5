@@ -10,4 +10,4 @@
 |Carlos David Arango Escobar           |caarangoe@unal.edu.co   | CarlosDavidArango  |
 |Santiago Herrera Pineda               |saherrerap@unal.edu.co  | saherrerap         |
 |XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
-|XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
+|David Esteban Toro Arango             |datoro@unal.edu.co      | DavidToro1000       |
