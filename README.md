@@ -7,7 +7,7 @@
 |Nombre completo                       |Correo                  |Git user            |
 |--------------------------------------|------------------------|--------------------|
 |Elízabeth Alzate Zapata               |ealzatez@unal.edu.co    | elizalzate         |
-|XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
+|Natalia Patiño Pérez                  |npatinop@unal.edu.co    | npatinop           |
 |XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
 |XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
 |XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
