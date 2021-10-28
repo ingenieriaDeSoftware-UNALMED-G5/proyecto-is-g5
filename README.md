@@ -14,7 +14,6 @@
 |David Esteban Toro Arango             |datoro@unal.edu.co      | DavidToro1000      |
 |Manuel Alejangro Gallego Jiménez	     |mgallegoj@unal.edu.co	  |ManuelGallegoJ      |
 |Felipe Cabeza Pareja                  |fcabeza@unal.edu.co     | bezaca         |
-|XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co     | usuario         |
 |Jose Fernando López Ramírez           |jlopezra@unal.edu.co    | jlopezra        |
 |Sebastian Villegas Múnera             |Sevillegas@unal.edu.co  | sevillegas         |
 |XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co     | usuario         |
