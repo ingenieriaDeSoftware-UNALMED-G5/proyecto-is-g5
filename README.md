@@ -7,6 +7,7 @@
 |Nombre completo                       |Correo                  |Git user            |
 |--------------------------------------|------------------------|--------------------|
 |Elízabeth Alzate Zapata               |ealzatez@unal.edu.co    | elizalzate         |
+|Natalia Patiño Pérez                  |npatinop@unal.edu.co    | npatinop           |
 |Carlos David Arango Escobar           |caarangoe@unal.edu.co   | CarlosDavidArango  |
 |Santiago Herrera Pineda               |saherrerap@unal.edu.co  | kricotl            |
 |Daniel Camilo Raillo Mosquera         |draillo@unal.edu.co     | draillo            |
