@@ -8,6 +8,6 @@
 |--------------------------------------|------------------------|--------------------|
 |Elízabeth Alzate Zapata               |ealzatez@unal.edu.co    | elizalzate         |
 |Carlos David Arango Escobar           |caarangoe@unal.edu.co   | CarlosDavidArango  |
-|XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
+|Santiago Herrera Pineda               |saherrerap@unal.edu.co  | saherrerap         |
 |XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
 |XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
