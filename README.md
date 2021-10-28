@@ -9,6 +9,6 @@
 |Elízabeth Alzate Zapata               |ealzatez@unal.edu.co    | elizalzate         |
 |Carlos David Arango Escobar           |caarangoe@unal.edu.co   | CarlosDavidArango  |
 |Santiago Herrera Pineda               |saherrerap@unal.edu.co  | saherrerap         |
-|XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co     | usuario            |
+|Daniel Camilo Raillo Mosquera         |draillo@unal.edu.co     | draillo            |
 |David Esteban Toro Arango             |datoro@unal.edu.co      | DavidToro1000      |
 |Manuel Alejangro Gallego Jiménez	     |mgallegoj@unal.edu.co	  |ManuelGallegoJ      |
