@@ -19,4 +19,4 @@
 [Documento de historias de usuario iniciales](https://docs.google.com/document/d/1Xv3KOE6H6ysUkcEfOw8NU9aVA63GKtjB8COByDcYwHo/edit)
 
 ## Enlace diagrama causa-efecto (espina de pescado):
-[Documento de historias de usuario iniciales](https://stormboard.com/invite/1637250/before14)
+[Documento de historias de usuario iniciales](https://stormboard.com/storm/1637250/Diagrama_causa-efecto_GRUPO_5)
