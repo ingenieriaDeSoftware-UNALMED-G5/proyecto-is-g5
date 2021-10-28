@@ -15,6 +15,6 @@
 |Manuel Alejangro Gallego Jiménez	     |mgallegoj@unal.edu.co	  |ManuelGallegoJ      |
 |Felipe Cabeza Pareja                  |fcabeza@unal.edu.co    | bezaca         |
 |XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
-|XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
+|Jose Fernando López Ramírez           |jlopezra@unal.edu.co   | jlopezra        |
 |XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
 |XXXXXXXXXXXXXXXXXXXXXXX               |ejemplo@unal.edu.co    | usuario         |
