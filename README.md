@@ -19,7 +19,7 @@
 [Documento de historias de usuario iniciales](https://docs.google.com/document/d/1Xv3KOE6H6ysUkcEfOw8NU9aVA63GKtjB8COByDcYwHo/edit)
 
 ## Enlace diagrama causa-efecto:
-[Documento con el diagrama de espina de pescado](https://stormboard.com/storm/1637250/Diagrama_causa-efecto_GRUPO_5)
+[Diagrama de espina de pescado](https://stormboard.com/storm/1637250/Diagrama_causa-efecto_GRUPO_5)
 
 ## Enlace casos de uso
-[Documento con los diagramas de casos de uso](https://drive.google.com/file/d/1ks9xTgESvnGoBP10wptWWMT5MR6jeUrL/view?usp=sharing) 
+[Diagramas de casos de uso](https://drive.google.com/file/d/1ks9xTgESvnGoBP10wptWWMT5MR6jeUrL/view?usp=sharing) 
