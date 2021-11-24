@@ -17,6 +17,7 @@
 
 ## Enlace documento Google Docs de historias de usuario:
 [Documento de historias de usuario iniciales](https://docs.google.com/document/d/1Xv3KOE6H6ysUkcEfOw8NU9aVA63GKtjB8COByDcYwHo/edit)
+[Plantilla Historias Usuario](https://docs.google.com/spreadsheets/d/1VZU0foKLRBAOeqZZnKmpKk1LaDVELpim/edit?usp=sharing&ouid=105850236916942973495&rtpof=true&sd=true)
 
 ## Enlace diagrama causa-efecto:
 [Diagrama de espina de pescado](https://stormboard.com/storm/1637250/Diagrama_causa-efecto_GRUPO_5)
