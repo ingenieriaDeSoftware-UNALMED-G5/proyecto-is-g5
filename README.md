@@ -1,6 +1,6 @@
 # Proyecto Ingeniería de Software 2021-2, grupo 5
 
-## Lista de miembros
+## Integrantes del equipo
 |Nombre completo                       |Correo                  |Git user            |
 |--------------------------------------|------------------------|--------------------|
 |Elízabeth Alzate Zapata               |ealzatez@unal.edu.co    | elizalzate         |
