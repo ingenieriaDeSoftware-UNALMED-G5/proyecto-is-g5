@@ -15,7 +15,7 @@
 |Sebastian Villegas Múnera             |Sevillegas@unal.edu.co  | sevillegas         |
 |Angello Gómez Monsalve                |anggomezmo@unal.edu.co  | anggomezmo         |
 
-## Enlace documento Google Docs de historias de usuario:
+## Enlace documento Google Docs de historias de usuario (y criterios de aceptación):
 [Documento de historias de usuario iniciales](https://docs.google.com/document/d/1Xv3KOE6H6ysUkcEfOw8NU9aVA63GKtjB8COByDcYwHo/edit)
 
 [Plantilla Historias Usuario con criterios de aceptación](https://docs.google.com/spreadsheets/d/1VZU0foKLRBAOeqZZnKmpKk1LaDVELpim/edit?usp=sharing&ouid=105850236916942973495&rtpof=true&sd=true)
