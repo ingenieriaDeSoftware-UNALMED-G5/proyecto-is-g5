@@ -25,3 +25,6 @@
 
 ## Enlace casos de uso
 [Diagramas de casos de uso](https://drive.google.com/file/d/1ks9xTgESvnGoBP10wptWWMT5MR6jeUrL/view?usp=sharing) 
+
+## Enlace diagrama de máquina de estados
+[Diagramas de máquina de estados](https://drive.google.com/file/d/1lC-r9JoIRPUXDrWnwxH4Tb_mxzvkhCsD/view?usp=sharing)
