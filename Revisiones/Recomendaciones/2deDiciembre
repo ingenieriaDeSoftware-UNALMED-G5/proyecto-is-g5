@@ -16,3 +16,9 @@
 * Preguntarse si esas son las preguntas que se le van a hacer al usuario
 * Antes de la finalización debe haber un estado
 * Finalizado -> Descargado (condición es cuando estudiante descarga horario) y también Finalizado -> Fin (sin condición)
+
+## Diagrama de pescado:
+* En la cabeza: Se requiere un sistema... para la (gestión, control, etc) de las asignaturas
+* P1: Decir tipo de problemas
+** Una cosa es que no haya sido ofertada y otra que no tenga cupos
+* Listado aparte de las materias ofertadas pero que aun no cumplo requisitos
