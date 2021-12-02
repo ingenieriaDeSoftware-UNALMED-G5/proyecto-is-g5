@@ -19,6 +19,9 @@
 
 ## Diagrama de pescado:
 * En la cabeza: Se requiere un sistema... para la (gestión, control, etc) de las asignaturas
-* P1: Decir tipo de problemas
+* SP1: Decir tipo de problemas
 ** Una cosa es que no haya sido ofertada y otra que no tenga cupos
-* Listado aparte de las materias ofertadas pero que aun no cumplo requisitos
+** Listado aparte de las materias ofertadas pero que aun no cumplo requisitos
+** Tener cuidado con la carencia de algo. El problema no es tener x cosa, es diferente el problema real
+* SP4: Ojo con lo de eficiencia, aunque se puede dejar asi
+** Poner los parámetros
