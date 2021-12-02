@@ -15,5 +15,4 @@
 * Estandarizar términos, es decir, si se usa agregar no usar añadir!!
 * Preguntarse si esas son las preguntas que se le van a hacer al usuario
 * Antes de la finalización debe haber un estado
-* Finalizado -> Descargado (condición es cuando estudiante descarga horario)
-* Finalizado -> Fin (sin condición)
+* Finalizado -> Descargado (condición es cuando estudiante descarga horario) y también Finalizado -> Fin (sin condición)
