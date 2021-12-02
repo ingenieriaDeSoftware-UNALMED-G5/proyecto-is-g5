@@ -1,9 +1,8 @@
 # Tareas pendientes (para el jueves 18 de noviembre):
 1. Pedirle al profesor una segunda opinion sobre el diagrama de pescado.
-2. Escribir las historias de usuario en plantilla del profesor y tener en cuenta las recomendaciones hechas.
 4. Plantear la matriz de trazabilidad luego de tener los casos de uso.
 5. Definir el diagrama de requerimientos.
-6. Máquina de estados
+6. Máquina de estados.
 
 
 # Personas encargadas de cada actividad:
@@ -19,7 +18,6 @@
   *ejemplo: decir en un lugar **estudiante** y en otro **alumno**. 
 
 # Tareas terminadas:
-* Actividad 3: Criterios de aceptación (18/11/2021).
+* Actividad 3: Criterios de aceptación en la plantilla de Excel (finalizado el 18/11/2021).
 * Casos De Uso.
-* Realizar los criterios de aceptación en Excel.
-* Escribir las historias de usuario en plantilla del profesor y tener en cuenta las recomendaciones hechas.
+* Jstorias de usuario en plantilla y con modificaciones.
