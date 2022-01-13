@@ -26,6 +26,12 @@
 ## Enlace casos de uso
 [Diagramas de casos de uso](https://drive.google.com/file/d/1ks9xTgESvnGoBP10wptWWMT5MR6jeUrL/view?usp=sharing) 
 
+## Enlace matriz de trazabilidad:
+
+[Lista de requisitos](https://docs.google.com/document/d/1oJ5bA5p4VRrVS9Ov7j24keMZDx13ft1vkwnfqscP090/edit?usp=sharing) 
+
+[Matriz de trazabilidad](https://docs.google.com/spreadsheets/d/140BPdVamU7URXhos4Jgju6JkddVLTARV/edit?usp=sharing&ouid=115052961224190842447&rtpof=true&sd=true) 
+
 ## Enlace diagrama de máquina de estados
 [Diagramas de máquina de estados](https://drive.google.com/file/d/1lC-r9JoIRPUXDrWnwxH4Tb_mxzvkhCsD/view?usp=sharing)
 
