@@ -28,3 +28,6 @@
 
 ## Enlace diagrama de máquina de estados
 [Diagramas de máquina de estados](https://drive.google.com/file/d/1lC-r9JoIRPUXDrWnwxH4Tb_mxzvkhCsD/view?usp=sharing)
+
+## Enlace tablas explicativas casos de uso
+[Tablas explicativas casos de uso](https://docs.google.com/document/d/1oVMOdggJ_iHlWaJ-uMajizcK6A7R6vAQ3odaS4HOcZA/edit?usp=sharing)
