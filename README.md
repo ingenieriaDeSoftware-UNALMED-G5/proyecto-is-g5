@@ -45,3 +45,6 @@
 
 ## Enlace tablas explicativas casos de uso:
 [Tablas explicativas casos de uso](https://docs.google.com/document/d/1oVMOdggJ_iHlWaJ-uMajizcK6A7R6vAQ3odaS4HOcZA/edit?usp=sharing)
+
+## Enlace diagrama de definición de bloques:
+[Diagrama de definición de bloques](https://drive.google.com/file/d/1qWQ_kxOhYdfBQCultPjVnpZy_9PMqSmB/view?usp=sharing)
