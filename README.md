@@ -23,7 +23,7 @@
 ## Enlace diagrama causa-efecto:
 [Diagrama de espina de pescado](https://stormboard.com/storm/1637250/Diagrama_causa-efecto_GRUPO_5)
 
-## Enlace casos de uso
+## Enlace casos de uso:
 [Diagramas de casos de uso](https://drive.google.com/file/d/1ks9xTgESvnGoBP10wptWWMT5MR6jeUrL/view?usp=sharing) 
 
 ## Enlace matriz de trazabilidad:
@@ -37,11 +37,11 @@
 ## Enlace modelo de dominio:
 [modelo de dominio](https://drive.google.com/file/d/1j9ZtVjf2kRKdjb91XamjO7oaag8Js0rA/view?usp=sharing)
 
-## Enlace diagrama de máquina de estados
+## Enlace diagrama de máquina de estados:
 [Diagramas de máquina de estados](https://drive.google.com/file/d/1lC-r9JoIRPUXDrWnwxH4Tb_mxzvkhCsD/view?usp=sharing)
 
 ## Enlace diagrama de paquetes:
 [Diagrama de paquetes](https://drive.google.com/file/d/1GLt_JzE3QXQ566oyy0srT8lHbE7I3_Sd/view?usp=sharing)
 
-## Enlace tablas explicativas casos de uso
+## Enlace tablas explicativas casos de uso:
 [Tablas explicativas casos de uso](https://docs.google.com/document/d/1oVMOdggJ_iHlWaJ-uMajizcK6A7R6vAQ3odaS4HOcZA/edit?usp=sharing)
