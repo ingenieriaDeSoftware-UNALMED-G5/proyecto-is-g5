@@ -34,6 +34,9 @@
 ## Enlace esquema preconceptual:
 [Esquema preconceptual](https://drive.google.com/file/d/1-Yja2HC14m86le3SuQDPZn2MvmFK7vx_/view?usp=sharing)
 
+## Enlace modelo de dominio:
+[modelo de dominio](https://drive.google.com/file/d/1j9ZtVjf2kRKdjb91XamjO7oaag8Js0rA/view?usp=sharing)
+
 ## Enlace diagrama de máquina de estados
 [Diagramas de máquina de estados](https://drive.google.com/file/d/1lC-r9JoIRPUXDrWnwxH4Tb_mxzvkhCsD/view?usp=sharing)
 
