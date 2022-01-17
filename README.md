@@ -49,6 +49,9 @@
 ## Enlace diagrama de definición de bloques:
 [Diagrama de definición de bloques](https://drive.google.com/file/d/1qWQ_kxOhYdfBQCultPjVnpZy_9PMqSmB/view?usp=sharing)
 
+## Enlace diagrama de parámetros: 
+[Diagrama de parámetros](https://app.diagrams.net/#G1YjNdTVfuu9P18Uj8t2COY5lOT-QnF3_e)
+
 ## Enlace diagrama de clases: 
 [Diagrama de clases](https://drive.google.com/file/d/1yvyw5XWlZjHEXbIxxIyU2EZLATbs25As/view?usp=sharing)
 
