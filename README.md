@@ -51,3 +51,6 @@
 
 ## Enlace diagrama de clases: 
 [Diagrama de clases](https://drive.google.com/file/d/1yvyw5XWlZjHEXbIxxIyU2EZLATbs25As/view?usp=sharing)
+
+## Enlace diagrama de requerimientos: 
+[Diagrama de requerimientos](https://app.diagrams.net/#G1ydx1ylPt6MgS_1nHBwh2DTCho6qLa7uw)
