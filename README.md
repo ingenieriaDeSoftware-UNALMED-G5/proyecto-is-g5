@@ -54,3 +54,6 @@
 
 ## Enlace diagrama de requerimientos: 
 [Diagrama de requerimientos](https://app.diagrams.net/#G1ydx1ylPt6MgS_1nHBwh2DTCho6qLa7uw)
+
+## Enlace diagrama de procesos:
+[Diagrama de procesos](https://app.diagrams.net/#G1JkTGc84g0DWthqddxyaEjniF6JH-CDpW)
