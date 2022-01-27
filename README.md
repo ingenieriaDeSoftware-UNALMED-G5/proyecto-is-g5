@@ -15,6 +15,9 @@
 |Sebastian Villegas Múnera             |Sevillegas@unal.edu.co  | sevillegas         |
 |Angello Gómez Monsalve                |anggomezmo@unal.edu.co  | anggomezmo         |
 
+## Entregable 
+[Entregable](https://docs.google.com/document/d/1nBn5S_dWjgl3BBkHOE8GfwUGghgkQbSRYLlhxAURsp4/edit?usp=sharing)
+
 ## Enlace documento Google Docs de historias de usuario (y criterios de aceptación):
 [Documento de historias de usuario iniciales](https://docs.google.com/document/d/1Xv3KOE6H6ysUkcEfOw8NU9aVA63GKtjB8COByDcYwHo/edit)
 
