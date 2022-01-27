@@ -63,3 +63,6 @@
 
 ## Enlace diagrama de procesos:
 [Diagrama de procesos](https://app.diagrams.net/#G1JkTGc84g0DWthqddxyaEjniF6JH-CDpW)
+
+## Enlace modelo de secuencias
+[Modelo de secuencias]()
