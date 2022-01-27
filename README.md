@@ -65,4 +65,4 @@
 [Diagrama de procesos](https://app.diagrams.net/#G1JkTGc84g0DWthqddxyaEjniF6JH-CDpW)
 
 ## Enlace modelo de secuencias
-[Modelo de secuencias]()
+[Modelo de secuencias](https://docs.google.com/document/d/1gCBwHm7GqV3yk4vVtOtB0EFpwI7OLFo_RBf03U_beDc/edit?usp=sharing)
