@@ -66,3 +66,6 @@
 
 ## Enlace modelo de secuencias
 [Modelo de secuencias](https://app.diagrams.net/#G1XgWOl_ENhJEBN5kC74baMzpKIC7qIsOZ)
+
+## Enlace diagrama de actividades
+[Diagrama de actividades](https://drive.google.com/file/d/1MYGoH1lrUac1LSmcvHjVfIQgf_H73X7D/view?usp=sharing)
