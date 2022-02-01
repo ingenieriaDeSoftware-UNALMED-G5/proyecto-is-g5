@@ -16,15 +16,15 @@
 |Angello Gómez Monsalve                |anggomezmo@unal.edu.co  | anggomezmo         |
 
 ## Entregable 
-[Entregable](https://docs.google.com/document/d/1nBn5S_dWjgl3BBkHOE8GfwUGghgkQbSRYLlhxAURsp4/edit?usp=sharing)
+[Entregable GRUPO 5 - Ciclo de vida de las asignaturas](https://docs.google.com/document/d/1nBn5S_dWjgl3BBkHOE8GfwUGghgkQbSRYLlhxAURsp4/edit?usp=sharing)
 
 ## Enlace documento Google Docs de historias de usuario (y criterios de aceptación):
 [Documento de historias de usuario iniciales](https://docs.google.com/document/d/1Xv3KOE6H6ysUkcEfOw8NU9aVA63GKtjB8COByDcYwHo/edit)
 
-[Plantilla Historias Usuario con criterios de aceptación](https://docs.google.com/spreadsheets/d/1VZU0foKLRBAOeqZZnKmpKk1LaDVELpim/edit?usp=sharing&ouid=105850236916942973495&rtpof=true&sd=true)
+[Plantilla de historias de usuario con criterios de aceptación](https://docs.google.com/spreadsheets/d/1VZU0foKLRBAOeqZZnKmpKk1LaDVELpim/edit?usp=sharing&ouid=105850236916942973495&rtpof=true&sd=true)
 
 ## Enlace diagrama causa-efecto:
-[Imagen diagrama espina de pescado](https://drive.google.com/file/d/1AvomLbDZSflc3z8Ib3lrm6CqvLdFsiwZ/view?usp=sharing)
+[Imagen diagrama de espina de pescado](https://drive.google.com/file/d/1AvomLbDZSflc3z8Ib3lrm6CqvLdFsiwZ/view?usp=sharing)
 
 [Diagrama de espina de pescado](https://stormboard.com/invite/1637250/before14)
 
@@ -40,7 +40,7 @@
 [Esquema preconceptual](https://drive.google.com/file/d/1-Yja2HC14m86le3SuQDPZn2MvmFK7vx_/view?usp=sharing)
 
 ## Enlace modelo de dominio:
-[modelo de dominio](https://drive.google.com/file/d/1j9ZtVjf2kRKdjb91XamjO7oaag8Js0rA/view?usp=sharing)
+[Modelo de dominio](https://drive.google.com/file/d/1j9ZtVjf2kRKdjb91XamjO7oaag8Js0rA/view?usp=sharing)
 
 ## Enlace diagrama de máquina de estados:
 [Diagramas de máquina de estados](https://drive.google.com/file/d/1lC-r9JoIRPUXDrWnwxH4Tb_mxzvkhCsD/view?usp=sharing)
