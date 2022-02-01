@@ -24,7 +24,7 @@
 [Plantilla Historias Usuario con criterios de aceptación](https://docs.google.com/spreadsheets/d/1VZU0foKLRBAOeqZZnKmpKk1LaDVELpim/edit?usp=sharing&ouid=105850236916942973495&rtpof=true&sd=true)
 
 ## Enlace diagrama causa-efecto:
-[Diagrama de espina de pescado](https://stormboard.com/storm/1637250/Diagrama_causa-efecto_GRUPO_5)
+[Diagrama de espina de pescado](https://stormboard.com/invite/1637250/before14)
 
 ## Enlace casos de uso:
 [Diagramas de casos de uso](https://drive.google.com/file/d/1ks9xTgESvnGoBP10wptWWMT5MR6jeUrL/view?usp=sharing) 
