@@ -62,7 +62,7 @@
 [Diagrama de requerimientos](https://app.diagrams.net/#G1ydx1ylPt6MgS_1nHBwh2DTCho6qLa7uw)
 
 ## Enlace diagrama de procesos:
-[Diagrama de procesos](https://app.diagrams.net/#G1JkTGc84g0DWthqddxyaEjniF6JH-CDpW)
+[Diagrama de procesos](https://app.diagrams.net/#G1PUuH2Wd1z5ql3ctpOArLBNLFm4NGloOS)
 
 ## Enlace modelo de secuencias
 [Modelo de secuencias](https://app.diagrams.net/#G1XgWOl_ENhJEBN5kC74baMzpKIC7qIsOZ)
