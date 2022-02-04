@@ -76,4 +76,4 @@
 [Diagrama entidad relación](https://app.diagrams.net/#G16j3R8ZSZxg8AGajse4plA87qwOWYRjA4)
 
 ## Mockup 
-[Mockup](https://www.canva.com/design/DAE3Qo9c6so/G0m2a2IcT4aAtRESxrHNvg/edit)
+[Mockup](https://www.canva.com/design/DAE3Qo9c6so/i4k4f45_vKQUvUz2XWsUqQ/view?website#1)
