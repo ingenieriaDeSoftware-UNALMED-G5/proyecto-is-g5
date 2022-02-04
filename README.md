@@ -24,7 +24,7 @@
 [Plantilla de historias de usuario con criterios de aceptación](https://docs.google.com/spreadsheets/d/1VZU0foKLRBAOeqZZnKmpKk1LaDVELpim/edit?usp=sharing&ouid=105850236916942973495&rtpof=true&sd=true)
 
 ## Enlace diagrama causa-efecto:
-[Imagen diagrama de espina de pescado](https://drive.google.com/file/d/1AvomLbDZSflc3z8Ib3lrm6CqvLdFsiwZ/view?usp=sharing)
+[Imagen diagrama de espina de pescado](https://drive.google.com/file/d/1ZyNoE22cUQeXot_aa3CyH4jD6yPR0oGX/view?usp=sharing)
 
 [Diagrama de espina de pescado](https://stormboard.com/invite/1637250/before14)
 
