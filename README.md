@@ -71,3 +71,9 @@
 
 ## Enlace diagrama de actividades
 [Diagrama de actividades](https://drive.google.com/file/d/1MYGoH1lrUac1LSmcvHjVfIQgf_H73X7D/view?usp=sharing)
+
+## Enlace Diagrama entidad relación
+[Diagrama entidad relación](https://app.diagrams.net/#G16j3R8ZSZxg8AGajse4plA87qwOWYRjA4)
+
+## Mockup 
+[Mockup](https://www.canva.com/design/DAE3Qo9c6so/G0m2a2IcT4aAtRESxrHNvg/edit)
